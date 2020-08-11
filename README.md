@@ -1,8 +1,9 @@
 # Quick Start Guide
 Conversation Design Workshop by Google
 Technovation Summit August 13, 2020
+&nbsp;<br>
 
-<br>
+
 ### Welcome to the Workshop
 The DialogFlow workshop is your opportunity to try your hand at conversation design alongside Google engineers. This is a rare opportunity to learn by doing. To get the most out of this experience, we ask that you read through this Guide and setup your Perfect Pizza Project in advance. This guide will help you get setup in just a few steps.
 
@@ -20,9 +21,9 @@ test
 
 ### Step 5: Test Your Setup
 test
+&nbsp;<br>
 
 
-<br>
 ### Want to learn more?
 Take a look at these great resources: 
 
