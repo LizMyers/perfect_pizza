@@ -9,7 +9,6 @@ The DialogFlow workshop is your opportunity to try your hand at conversation des
 ### Step 1: Download the files
 You can download the Perfect Pizza files from this GitHub repository. Select the **green Code button** and then select **Download ZIP** to save to your computer. **Pro Tip: save the files to your desktop** so they are within easy reach.
 
-
 ### Step 2: Log in to DialogFlow
 Go to the <a href = "http://dialogflow.cloud.google.com">dialogflow console</a> and sign in with your gmail account. (Note: If you don’t have gmail, you can create a new account at gmail.com.  Here’s how: <a href="https://youtu.be/kw2eFtZXDho" target="_blank">3 minute tutorial</a>.)
 
@@ -21,6 +20,8 @@ test
 
 ### Step 5: Test Your Setup
 test
+
+
 
 ### Want to learn more?
 Take a look at these great resources: 
