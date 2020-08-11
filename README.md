@@ -18,10 +18,15 @@ Go to the <a href = "http://dialogflow.cloud.google.com">dialogflow console</a> 
 test
 
 ### Step 4: Import Files
-test
+In the upper left corner of the DialogFlow window, and just to the right of your agent’s name, you should see the gear icon. **Click on the gear icon and select Export and Import** from the menu. Then select **RESTORE FROM ZIP** and **locate** the **perfect_pizza_START.zip** file. Selecting this file automatically imports the contents. In this way, we are all working on the same starter conversation together. You can customize and turn this almost-perfect-pizza into your perfect pie.
 
 ### Step 5: Test Your Setup
-test
+As you may have noticed,  right hand column of the DialogFlow interface  is for testing. At the top, there’s a grey box that says “ Try it now”. **Greet your new agent by typing “Hi” or “hello” in the box and hit enter**. This is how you can chat with your new bot.
+
+
+### Step 6: Make Your Pizza Perfect
+Congratulations! You’ve created your first agent. We’re excited to join you in the workshop and to help customize your Perfect Pizza. In the meantime, to learn more, check out a few handy resources below.
+
 
 &nbsp;<br />
 
