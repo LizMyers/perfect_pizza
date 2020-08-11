@@ -1,7 +1,8 @@
 # Quick Start Guide
 Conversation Design Workshop by Google
 Technovation Summit August 13, 2020
-&nbsp;<br>
+
+&nbsp;<br />
 
 
 ### Welcome to the Workshop
@@ -21,7 +22,8 @@ test
 
 ### Step 5: Test Your Setup
 test
-&nbsp;<br>
+
+&nbsp;<br />
 
 
 ### Want to learn more?
