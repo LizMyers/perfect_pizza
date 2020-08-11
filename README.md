@@ -6,7 +6,7 @@ Technovation Summit August 13, 2020
 
 
 ### Welcome to the Workshop
-Are you ready to build a chat bot? In this workshop, we'll learn a few of the basics in conversation design. Together with Google Engineers, you'll customize a simple project and learn to use DialogFlow.  To get the most out of this experience, we ask that you read through this Guide and setup your Perfect Pizza Project in advance. This guide will help you get setup in just a few easy steps.
+Are you ready to build a chat bot? In this workshop, we'll learn a few of the basics in conversation design. Together with Google Engineers, you'll customize a simple project and learn to use DialogFlow.  To get the most out of this experience, we ask that you read through this Guide and **setup your Perfect Pizza Project in advance**. That way we can maximize our time together.
 
 ### Step 1: Download the files
 You can download the Perfect Pizza files from this GitHub repository. Select the **green Code button** and then select **Download ZIP** to save to your computer. **Pro Tip: save the files to your desktop** so they are within easy reach.
