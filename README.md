@@ -22,8 +22,8 @@ test
 ### Step 5: Test Your Setup
 test
 
-## Want to learn more?
-check out these resources: 
+### Want to learn more?
+Take a look at these great resources: 
 
 <a href = "https://youtu.be/sb75sitmPCc" target="_blank">How to Design a Conversation in 60 Seconds</a>, by Cathy Pearl
 
