@@ -24,7 +24,7 @@ In the upper left corner of the DialogFlow window, and just to the right of your
 As you may have noticed,  right hand column of the DialogFlow interface  is for testing. At the top, there’s a grey box that says “ Try it now”. **Greet your new agent by typing “Hi” or “hello” in the box and hit enter**. This is how you can chat with your new bot.
 
 
-### Step 6: Make Your Pizza Perfect
+### Step 6: Make It *Yours*
 Congratulations! You’ve created your first chat bot. We’re excited to join you in the workshop and to help customize your Perfect Pizza. In the meantime, you can learn more by checking out a few resources below.
 
 
