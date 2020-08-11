@@ -25,7 +25,7 @@ As you may have noticed,  right hand column of the DialogFlow interface  is for 
 
 
 ### Step 6: Make Your Pizza Perfect
-Congratulations! You’ve created your first agent. We’re excited to join you in the workshop and to help customize your Perfect Pizza. In the meantime, to learn more, check out a few handy resources below.
+Congratulations! You’ve created your first chat bot. We’re excited to join you in the workshop and to help customize your Perfect Pizza. In the meantime, you can learn more by checking out a few resources below.
 
 
 &nbsp;<br />
