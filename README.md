@@ -9,7 +9,7 @@ Technovation Summit August 13, 2020
 Are you ready to build a chat bot? In this workshop, we'll learn a few of the basics in conversation design. Together with Google Engineers, you'll customize a simple project and learn to use DialogFlow.  To get the most out of this experience, we ask that you read through this Guide and **setup your Perfect Pizza Project in advance**. That way we can maximize our time together.
 
 ### Step 1: Download the files
-You can download the Perfect Pizza files from this GitHub repository. Select the **green Code button** and then select **Download ZIP** to save to your computer. **Pro Tip: unzip the MASTER** so that you have two files: **perfect_pizza_START.zip** & **perfect_pizza_finish.zip**.
+You can download the Perfect Pizza files from this GitHub repository. Select the **green Code button** and then select **Download ZIP** to save to your computer. **Pro Tip: unzip the MASTER** so that you can see these two separate files: **perfect_pizza_START.zip** & **perfect_pizza_finish.zip**.
 
 ### Step 2: Log in to DialogFlow
 Go to the <a href = "http://dialogflow.cloud.google.com">dialogflow console</a> and sign in with your gmail account. (Note: If you don’t have gmail, you can create a new account at gmail.com.  Here’s how: <a href="https://youtu.be/kw2eFtZXDho" target="_blank">3 minute tutorial</a>.)
