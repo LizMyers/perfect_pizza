@@ -1,5 +1,5 @@
 # Quick Start Guide
-Conversation Design Workshop by Google
+Conversation Design Workshop by Google<br/>
 Technovation Summit August 13, 2020
 
 &nbsp;<br />
