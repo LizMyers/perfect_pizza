@@ -21,7 +21,7 @@ Next we need to **Create a New Agent**. If you're new to DialogFlow, you should 
 In the upper left corner of the DialogFlow window, and just to the right of your agent’s name, you should see the gear icon. **Click on the gear icon and select Export and Import** from the menu. Then select **RESTORE FROM ZIP** and **locate** the **perfect_pizza_START.zip** file. Be sure and type RESTORE (all caps) in the grey box. Then the **RESTORE button** becomes available and you can click it. Now you're ready to turn this almost-perfect-pizza into *your perfect pie*.
 
 ### Step 5: Test Your Setup
-As you may have noticed, the right hand column of the DialogFlow interface  is for testing. At the top, there’s a grey box that says “ Try it now”. **Greet your new agent by typing “Hi” or “hello” in the box and hit ENTER**. This is how you can chat with your new bot.
+As you may have noticed, the right hand column of the DialogFlow interface  is for testing. At the top, there’s a grey box that says “ Try it now”. Greet your new agent by typing **“Hi” or “hello”** in the box and **hit ENTER**. This is how you can chat with your new bot.
 
 
 ### Step 6: Make It *Yours*
@@ -36,7 +36,7 @@ Take a look at these great resources:
 
 VIDEO: <a href = "https://youtu.be/sb75sitmPCc" target="_blank">How to Design a Conversation in 60 Seconds</a>, by Cathy Pearl, Conversation Design Lead, Google
 
-VIDEO: <a href="https://youtu.be/kF33Ime0a2k" target="_blank">Easy FAQ Chatbot Tutorial</a> [3 min.] Priyanka Vergadia, Developer Advocate, Google Cloud
+VIDEO: <a href="https://youtu.be/kF33Ime0a2k" target="_blank">Deconstructing ChatBots: instant FAQ</a> [3 min.] by Priyanka Vergadia, Developer Advocate, Google Cloud
 
 <a href="https://designguidelines.withgoogle.com/conversation/conversation-design/welcome.html" target="_blank">Conversation Design Site</a>
 
