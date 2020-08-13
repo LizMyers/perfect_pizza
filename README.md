@@ -21,7 +21,7 @@ Next we need to **Create a New Agent**. If you're new to DialogFlow, you should 
 In the upper left corner of the DialogFlow window, and just to the right of your agent’s name, you should see the gear icon. **Click on the gear icon and select Export and Import** from the menu. Then select **RESTORE FROM ZIP** and **locate** the **perfect_pizza_START.zip** file. Be sure and type RESTORE (all caps) in the grey box. Then the **RESTORE button** becomes available and you can click it. Now you're ready to turn this almost-perfect-pizza into *your perfect pie*.
 
 ### Step 5: Test Your Setup
-As you may have noticed, the right hand column of the DialogFlow interface  is for testing. At the top, there’s a grey box that says “ Try it now”. **Greet your new agent by typing “Hi” or “hello” in the box and hit enter**. This is how you can chat with your new bot.
+As you may have noticed, the right hand column of the DialogFlow interface  is for testing. At the top, there’s a grey box that says “ Try it now”. **Greet your new agent by typing “Hi” or “hello” in the box and hit ENTER**. This is how you can chat with your new bot.
 
 
 ### Step 6: Make It *Yours*
