@@ -15,7 +15,7 @@ You can download the Perfect Pizza files from this GitHub repository. Select the
 Go to the <a href = "http://dialogflow.cloud.google.com">dialogflow console</a> and sign in with your gmail account. (Note: If you don’t have gmail, you can create a new account at gmail.com.  Here’s how: <a href="https://youtu.be/kw2eFtZXDho" target="_blank">3 minute tutorial</a>.)
 
 ### Step 3: Create New Agent
-In the upper left corder of the DialogFlow Window, directly under the logo - there is little dropdown arrow. Click the arrow to open the menu and then select **Create New Agent**. **Give your agent a name** such as test_agent or my_pizza.
+Next we need to **Create a New Agent**. If you're new to DialogFlow, you should see this button in the upper left corner. If you don't see the "+ Create Agent" button, click the drown-down arrow and select **Create New Agent** from the menu. **Give your agent a name** such as test_agent or my_pizza. Agent names can not be changed later - so create simple name, using words commonly found in the English dictionary.
 
 ### Step 4: Import Files
 In the upper left corner of the DialogFlow window, and just to the right of your agent’s name, you should see the gear icon. **Click on the gear icon and select Export and Import** from the menu. Then select **RESTORE FROM ZIP** and **locate** the **perfect_pizza_START.zip** file. Be sure and type RESTORE (all caps) in the grey box. Then the **CREATE button** becomes available and you can click it. Now you've imported the starter files and we are working on the same conversation together. Now you're ready customize and turn this almost-perfect-pizza into your perfect pie.
