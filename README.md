@@ -34,12 +34,12 @@ Congratulations! You’ve created your first chat bot. We’re excited to join y
 ### Want to learn more?
 Take a look at these great resources: 
 
-VIDEO: <a href = "https://youtu.be/sb75sitmPCc" target="_blank">How to Design a Conversation in 60 Seconds</a>, by Cathy Pearl
+VIDEO: <a href = "https://youtu.be/sb75sitmPCc" target="_new">How to Design a Conversation in 60 Seconds</a>, by Cathy Pearl
 
-VIDEO: <a href="https://youtu.be/kF33Ime0a2k" target=_blank>Easy FAQ Chatbot Tutorial</a> (3 min.) Priyanka Vergadia, Cloud Evangelist, Google 
+VIDEO: <a href="https://youtu.be/kF33Ime0a2k" target="_new">Easy FAQ Chatbot Tutorial</a> (3 min.) Priyanka Vergadia, Cloud Evangelist, Google 
 
-<a href="https://designguidelines.withgoogle.com/conversation/conversation-design/welcome.html" target="_blank">Conversation Design Site</a>
+<a href="https://designguidelines.withgoogle.com/conversation/conversation-design/welcome.html" target="_new">Conversation Design Site</a>
 
-<a href="https://cloud.google.com/dialogflow/docs" target=_blank>Dialog Flow docs</a> - nice templates, tutorials
+<a href="https://cloud.google.com/dialogflow/docs" target="_new">Dialog Flow docs</a> - nice templates, tutorials
 
 
