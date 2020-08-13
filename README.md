@@ -34,6 +34,8 @@ Congratulations! You’ve created your first chat bot. We’re excited to join y
 ### Want to learn more?
 Take a look at these great resources: 
 
+[How to Design a Conversation in 60 Seconds](https://youtu.be/sb75sitmPCc){:target="_blank"}
+
 VIDEO: <a href = "https://youtu.be/sb75sitmPCc" target="_new">How to Design a Conversation in 60 Seconds</a>, by Cathy Pearl
 
 VIDEO: <a href="https://youtu.be/kF33Ime0a2k" target="_new">Easy FAQ Chatbot Tutorial</a> (3 min.) Priyanka Vergadia, Cloud Evangelist, Google 
